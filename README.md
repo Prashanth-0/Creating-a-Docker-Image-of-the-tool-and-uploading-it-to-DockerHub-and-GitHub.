@@ -17,7 +17,7 @@ Create a Dockerfile in the root directory of your project. The Dockerfile is a t
 
 To build the Docker image, run the following command in the root directory of your project
 
- docker build -t your-username/your-  image-name .
+    docker build -t your-username/your-  image-name .
 
 This command will build the Docker image named your-username/your-image-name.
 
@@ -25,13 +25,13 @@ This command will build the Docker image named your-username/your-image-name.
 
 To tag the Docker image for Docker Hub, run the following command
 
-docker tag your-username/your-image-name docker.io/your-username/your-image-name:latest
+    docker tag your-username/your-image-name docker.io/your-username/your-image-name:latest
 
 ## 4. Push the Docker image to Docker Hub
 
 To push the Docker image to Docker Hub, run the following command:
 
-docker push docker.io/your-username/your-image-name:latest
+    docker push docker.io/your-username/your-image-name:latest
 
 ## 5. Create a GitHub repository
 

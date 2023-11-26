@@ -3,8 +3,8 @@
 # Prerequisites
 You will need the following tools installed on your system:
 
-Docker
-Git
+•Docker
+•Git
 
 # Steps  
 

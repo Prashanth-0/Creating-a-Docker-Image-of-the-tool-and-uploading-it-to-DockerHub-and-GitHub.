@@ -17,7 +17,7 @@ Create a Dockerfile in the root directory of your project. The Dockerfile is a t
 
 To build the Docker image, run the following command in the root directory of your project
 
-docker build -t your-username/your-  image-name .
+ docker build -t your-username/your-  image-name .
 
 This command will build the Docker image named your-username/your-image-name.
 
